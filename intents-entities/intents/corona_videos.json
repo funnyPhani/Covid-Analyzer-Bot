@@ -1,0 +1,84 @@
+{
+  "id": "50e36dc7-0a76-4925-9602-438aa4372155",
+  "name": "corona_videos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Govt of India advertisment on Covid-19",
+          "subtitle": "https://www.youtube.com/watch?v\u003dv-852f1PXBo"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Govt of India advertisment on Covid-19",
+          "subtitle": "https://www.youtube.com/watch?v\u003dvh1UKAq_6XY"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "CoronaVirus in Detail",
+          "subtitle": "https://www.youtube.com/watch?v\u003dPWzbArPgo-o"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Kindly choose 👆 options 👇👇👇",
+          "replies": [
+            "Main Menu",
+            "Mapwise cases"
+          ]
+        },
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "elements": [
+                    {
+                      "url": "https://www.facebook.com/MoHFWIndia/videos/263683921296815/",
+                      "media_type": "video"
+                    }
+                  ],
+                  "template_type": "media"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

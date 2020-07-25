@@ -1,0 +1,68 @@
+{
+  "id": "9ad12864-00bb-4734-8525-e4bae7c2926c",
+  "name": "mapwise_cases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "MERS Coronavirus  Cases and Sequences",
+          "subtitle": "https://www.google.com/maps/d/viewer?mid\u003d15GjG9LJ3K4LTOcdYPuu2zjJoAPg\u0026hl\u003den\u0026usp\u003dsharing"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Cases worldwide on Map",
+          "subtitle": "https://www.google.com/maps/d/viewer?mid\u003d15GjG9LJ3K4LTOcdYPuu2zjJoAPg\u0026hl\u003den\u0026usp\u003dsharing"
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Cases by Google",
+          "subtitle": "https://news.google.com/covid19/map?hl\u003den-IN\u0026gl\u003dIN\u0026ceid\u003dIN:en"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Want see some More about CoronaVirus ? Kindly choose ☝️ option 👇👇",
+          "replies": [
+            "show me some videos",
+            "show me some images",
+            "Main Menu",
+            "Exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Here is cases  world wide on Google Map -- https://www.google.com/maps/d/viewer?mid\u003d15GjG9LJ3K4LTOcdYPuu2zjJoAPg\u0026hl\u003den\u0026usp\u003dsharing"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
