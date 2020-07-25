@@ -25,5 +25,5 @@ Step wise implementation and Document - https://ppxa-my.sharepoint.com/:w:/g/per
 If you like my work kindly hit 🌟
 
 
-feel free to contact me in case of any problem reachout to me @ 'dineshraturi22@gmail.com' and Add subject-BestCovid Query
+feel free to contact me in case of any problem reachout to me @ 'siginamsettyphani@gmail.com' and Add subject-BestCovid Query
 
